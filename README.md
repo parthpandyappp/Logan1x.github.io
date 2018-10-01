@@ -3,7 +3,7 @@ contribute as much as you can
 
 Visit Here to See [Website](https://logan1x.github.io).
 
-#See `License` to use for personal project.#
+See `License` to use for personal project.
 
 ## Contributors
 
